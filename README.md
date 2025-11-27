@@ -2,7 +2,7 @@
 
 A Modern Finance Tracker Application built with Next.js, designed to help you manage your banking and financial activities with style.
 
-## ✨ Features
+## Features
 
 - 📊 Real-time balance tracking with animated counters
 - 🎨 Beautiful, modern UI with glassmorphism effects
@@ -11,7 +11,7 @@ A Modern Finance Tracker Application built with Next.js, designed to help you ma
 - 📈 Interactive charts and visualizations
 - 🏦 Multi-bank account management
 
-## 🚀 Getting Started
+## Getting Started
 
 First, install the dependencies:
 
@@ -82,7 +82,3 @@ Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Built with ❤️ using Next.js
